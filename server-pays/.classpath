@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="owner.project.facets" value="java"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
-		<attributes>
-			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/Dev/JavaEE-cours/InstallServers/tomcat 8/lib/servlet-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://docs.oracle.com/javaee/7/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/eclipselink.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/istack-commons-runtime-4.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/jakarta.persistence.source_2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/jakarta.persistence_2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/jaxb-api-2.4.0-b180830.0359.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/jaxb-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/jaxb-runtime-3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/jaxb-xjc-3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/jeval.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/mysql-connector-java-5.0.5-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/org.eclipse.persistence.jpa.modelgen.source_2.7.7.v20200504-69f2c2b80d.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/org.eclipse.persistence.jpa.modelgen_2.7.7.v20200504-69f2c2b80d.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/org.eclipse.persistence.jpars.source_2.7.7.v20200504-69f2c2b80d.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/org.eclipse.persistence.jpars_2.7.7.v20200504-69f2c2b80d.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/Java Librairie/org.json-chargebee-1.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

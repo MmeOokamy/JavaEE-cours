@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>server-pays</name>
+	<name>pays-server</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -30,7 +30,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1612818837503</id>
+			<id>1612818837499</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
